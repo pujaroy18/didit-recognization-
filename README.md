@@ -1,1 +1,1 @@
-# didit-recognization-
+# digit-recognization-
